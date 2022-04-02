@@ -1,6 +1,6 @@
 # Orders_Management_System
 
-This project desins and implements an Order Management application for processing client orders for a warehouse. Relational databases are used to store the products, the clients and the orders. 
+This project designs and implements an Order Management application for processing client orders for a warehouse. Relational databases are used to store the products, the clients and the orders. 
 
 * The orders management application allows users to select the table/entity to be processed, i.e. Client, Product and Order.
 *  For each of these, the application allows user to perform the CRUD operations (Create, Read, 
