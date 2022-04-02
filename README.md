@@ -9,7 +9,4 @@ Update and Delete) that will be saved in the database.
 products or orders are valid.
 *  The application creates a bill (in a .txt file) for every order made. 
 
-Non-Functional requirements
-* The orders management application should be intuitive and easy to use by the user.
-* The orders management application should not allow the user to introduce invalid input.
-* The orders management application should warn the user if the input is not valid or empty.
+
